@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://test.webcose.tk/static/css/main.6a8ddf9e.css",
+    "main.js": "https://test.webcose.tk/static/js/main.c939dced.js",
+    "static/media/betting_img.png": "https://test.webcose.tk/static/media/betting_img.dcceb6d5ad7b746b98e7.png",
+    "static/media/sol_icon.png": "https://test.webcose.tk/static/media/sol_icon.2c893b4c1b0225b83c82.png",
+    "index.html": "https://test.webcose.tk/index.html",
+    "main.6a8ddf9e.css.map": "https://test.webcose.tk/static/css/main.6a8ddf9e.css.map",
+    "main.c939dced.js.map": "https://test.webcose.tk/static/js/main.c939dced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8ddf9e.css",
+    "static/js/main.c939dced.js"
+  ]
+}
